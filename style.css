@@ -1,0 +1,84 @@
+html{
+    font-size: 20px;
+}
+/* Header css */
+#logo{
+    height: 30px;
+    text-align: left;
+    float: left;
+}
+#menu{
+    text-align: left;
+}
+header ul{
+    padding-left: none;
+}
+header li {
+    inset-inline-start: 10px;
+    display: inline;
+    padding: 5px;
+    color: forestgreen;
+    margin-left: 9px;
+}
+header{
+    border: outset;
+    width: 100%;
+}
+/* sidebar css */
+#nav{
+    padding-left: unset;
+    margin: unset;
+}
+nav li{
+    list-style-type: none;
+    color: forestgreen;
+    padding: 3px;
+}
+nav{
+    float: left;
+    margin-top: 1px;
+    border: groove;
+    border-right: 1px black;
+}
+/* body part css */
+#body{
+    /* background-color: aqua; */
+    float: left;
+    padding: 10px;
+    width: 70%;
+    background-color: #f1f1f1;
+}
+#releas-year{
+width: 100%
+}
+#html-intro{
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto;*/
+    width: 667px;
+    height: 300px; 
+    float: left;
+}
+#sub-body{
+    padding-left: 51%;
+}
+p{
+    text-align: justify;
+}
+#tags{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 40%; */
+}
+/* side bar */
+#side-img{
+    float: right;
+    width: 264px;
+    margin-top: 8%;
+}
+/* footer css */
+footer{
+    
+    align-items: unset;
+}
