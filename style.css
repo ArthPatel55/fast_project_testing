@@ -41,6 +41,9 @@ nav{
     border-right: 1px black;
 }
 /* body part css */
+#body_part{
+    height: auto;
+}
 #body{
     /* background-color: aqua; */
     float: left;
@@ -79,6 +82,10 @@ p{
 }
 /* footer css */
 footer{
-    
-    align-items: unset;
+    /* margin-left: 41%; */
+    height: 35px;
+    text-align: center;
+    width: 100%;
+    background-color: #00ff7696; 
+    float: left;
 }
